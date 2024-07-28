@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Figmabasics",
-    "slug": "Figmabasics",
+    "name": "figma_basics",
+    "slug": "figma_basics",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
